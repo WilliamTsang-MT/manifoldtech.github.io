@@ -22,9 +22,9 @@ This theme is currently a **Work-In-Progress** but, while some things might be
 broken, it should be already usable.
 
 Missing features are listed in the GitHub issues with the
-[to-do label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
+[to-do label](https://github.com/WilliamTsang-MT/manifoldtech.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
 and any known issues are listed with the
-[bug label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
+[bug label](https://github.com/WilliamTsang-MT/manifoldtech.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
 
 Contributions are very welcomed!
 
@@ -158,7 +158,7 @@ $ pipenv run python -m http.server 8080
 ## 👨‍👩‍👧‍👦 Contributing
 
 Bug reports and pull requests are welcome on GitHub at
-https://github.com/carlosperate/jekyll-theme-rtd.
+https://github.com/WilliamTsang-MT/manifoldtech.github.io.
 
 This project is intended to be a safe, welcoming space for collaboration, and
 contributors are expected to adhere to the
@@ -178,6 +178,6 @@ Copyright © 2014, Tom Christie, all rights reserved, and released under the
 [BSD 2-Clause "Simplified" License](LICENSE-mkdocs).
 
 The theme modifications to port it Jekyll can be seen
-[here](https://github.com/carlosperate/jekyll-theme-rtd/compare/dddce9f13fde24c03aee4533158c43091120d47e...master).
+[here](https://github.com/WilliamTsang-MT/manifoldtech.github.io/compare/dddce9f13fde24c03aee4533158c43091120d47e...master).
 This and all new features are released under the
 [BSD 2-Clause "Simplified" License](LICENSE).

@@ -21,7 +21,7 @@ description: Port of the Read the Docs theme to Jekyll to use with GitHub Pages.
 ```yml
 # Specific to this theme
 site_author: Carlos Pereira Atencio
-repo_url: 'https://github.com/carlosperate/jekyll-theme-rtd'
+repo_url: 'https://github.com/WilliamTsang-MT/manifoldtech.github.io'
 edit_on_github: true
 github_docs_folder: true
 logo: 'https://your.url/image.png'

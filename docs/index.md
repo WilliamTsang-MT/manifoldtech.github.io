@@ -38,8 +38,8 @@ This theme is currently a **Work-In-Progress** but, while some things might be
 broken, it should be already usable.
 
 Missing features are listed in the GitHub issues with the
-[to-do label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
+[to-do label](https://github.com/WilliamTsang-MT/manifoldtech.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
 and any known issues are listed with the
-[bug label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
+[bug label](https://github.com/WilliamTsang-MT/manifoldtech.github.io/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
 
 Contributions are very welcomed!
