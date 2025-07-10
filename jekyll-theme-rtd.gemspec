@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "jekyll-theme-rtd"
   spec.version       = "0.1.0"
-  spec.authors       = ["carlosperate"]
-  spec.email         = ["carlosperate@embeddedlog.com"]
+  spec.authors       = ["Manifold Tech"]
+  spec.email         = ["cengweinan@manifoldtech.cn"]
 
   spec.summary       = "Port of the Read the Docs theme to Jekyll to use with GitHub Pages."
   spec.homepage      = "https://github.com/WilliamTsang-MT/manifoldtech.github.io"
