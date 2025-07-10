@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Odin1 SDK
+title: Odin1 Page 1
 nav_order: 1
 ---
 
