@@ -5,7 +5,7 @@
 # Changes have been made to adapt it for this project.
 
 layout: default
-title: Markdown Kitchen Sink Example
+title: MPocket Page 2
 excerpt: A sample description for SEO.
 nav_order: 2
 ---
